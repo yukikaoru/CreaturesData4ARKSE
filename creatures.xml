@@ -34,7 +34,7 @@
       <note />
       <guid>b9bf11fb-40de-4be5-867b-5784f266361a</guid>
       <isBred>true</isBred>
-      <fatherGuid>60c8fd77-4246-4673-b728-2bb4a5af3d1b</fatherGuid>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
       <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
       <generation>1</generation>
       <colors>
@@ -136,7 +136,7 @@
       <note />
       <guid>a9ed6c77-08d4-4cb5-872a-21336d574c1b</guid>
       <isBred>false</isBred>
-      <fatherGuid>8b5ef018-cd21-403b-8280-6795a86525d6</fatherGuid>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
       <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
       <generation>1</generation>
       <colors>
@@ -187,7 +187,7 @@
       <note />
       <guid>b018ad26-923e-46c1-abf7-b14a9087ca92</guid>
       <isBred>false</isBred>
-      <fatherGuid>8b5ef018-cd21-403b-8280-6795a86525d6</fatherGuid>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
       <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
       <generation>1</generation>
       <colors>
@@ -256,6 +256,312 @@
       <mutationCounter>0</mutationCounter>
       <tags />
     </Creature>
+    <Creature>
+      <species>Ravager</species>
+      <name>れんがー</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>5</int>
+        <int>2</int>
+        <int>5</int>
+        <int>7</int>
+        <int>5</int>
+        <int>2</int>
+        <int>5</int>
+        <int>31</int>
+      </levelsWild>
+      <levelsDom>
+        <int>16</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>3</int>
+        <int>7</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.999</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>ee41809d-5734-4355-8fba-8467393e073f</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2017-12-19T21:27:06.9794645+09:00</growingUntil>
+      <cooldownUntil>2017-12-19T21:27:06.9794645+09:00</cooldownUntil>
+      <domesticatedAt>2017-12-19T21:26:55.0235224+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Ravager</species>
+      <name>やこうせいのいぬ</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>3</int>
+        <int>1</int>
+        <int>2</int>
+        <int>1</int>
+        <int>1</int>
+        <int>3</int>
+        <int>1</int>
+        <int>12</int>
+      </levelsWild>
+      <levelsDom>
+        <int>24</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.991</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>8c129c98-002b-4f7d-950b-cc61b3b18316</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2017-12-20T21:00:32.4344147+09:00</growingUntil>
+      <cooldownUntil>2017-12-20T21:00:32.4344147+09:00</cooldownUntil>
+      <domesticatedAt>2017-12-20T21:00:13.3808761+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Megalosaurus</species>
+      <name>メガロマニア</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>7</int>
+        <int>6</int>
+        <int>1</int>
+        <int>2</int>
+        <int>3</int>
+        <int>3</int>
+        <int>1</int>
+        <int>23</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>11</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.94</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>ac4ebcda-4131-4eec-9a89-10fdadde1104</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2017-12-22T02:48:38.8338298+09:00</growingUntil>
+      <cooldownUntil>2017-12-22T02:48:38.8338298+09:00</cooldownUntil>
+      <domesticatedAt>2016-07-05T13:11:41.997</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Megalosaurus</species>
+      <name>とりあえずの嫁</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>1</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>1</int>
+        <int>2</int>
+      </levelsWild>
+      <levelsDom>
+        <int>9</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.94</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>c2276cd0-a893-4354-b728-fbb66f38d184</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2017-12-22T06:12:29.331814+09:00</growingUntil>
+      <cooldownUntil>2017-12-22T06:12:29.331814+09:00</cooldownUntil>
+      <domesticatedAt>2017-12-22T02:48:38.8693624+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Megalosaurus</species>
+      <name>ムスカ</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>7</int>
+        <int>6</int>
+        <int>1</int>
+        <int>3</int>
+        <int>3</int>
+        <int>4</int>
+        <int>1</int>
+        <int>27</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>4c2c54e7-e272-44e4-a6a4-5d2e0ed0e1e1</guid>
+      <isBred>true</isBred>
+      <fatherGuid>ac4ebcda-4131-4eec-9a89-10fdadde1104</fatherGuid>
+      <motherGuid>c2276cd0-a893-4354-b728-fbb66f38d184</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2017-12-22T06:16:26.0393567+09:00</growingUntil>
+      <cooldownUntil>2017-12-22T06:16:26.0393567+09:00</cooldownUntil>
+      <domesticatedAt>2017-12-22T02:48:38.8693624+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Spino</species>
+      <name>スピ美</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>2</int>
+        <int>6</int>
+        <int>6</int>
+        <int>7</int>
+        <int>9</int>
+        <int>7</int>
+        <int>0</int>
+        <int>37</int>
+      </levelsWild>
+      <levelsDom>
+        <int>5</int>
+        <int>7</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>a20304f2-1c9c-4012-b20d-8010e083245c</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2017-12-22T21:47:12.8548696+09:00</growingUntil>
+      <cooldownUntil>2017-12-22T21:47:12.8548696+09:00</cooldownUntil>
+      <domesticatedAt>2016-07-05T13:11:41.997</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
   </creatures>
   <creaturesValues>
     <CreatureValues>
@@ -295,7 +601,7 @@
       <double>0.14</double>
       <double>0.44</double>
       <double>0.2</double>
-      <double>1</double>
+      <double>1.0686</double>
     </ArrayOfDouble>
     <ArrayOfDouble>
       <double>1</double>
@@ -322,7 +628,7 @@
       <double>1</double>
     </ArrayOfDouble>
     <ArrayOfDouble>
-      <double>0.14</double>
+      <double>0.12</double>
       <double>0.44</double>
       <double>0.17</double>
       <double>1</double>
@@ -359,7 +665,7 @@
   <babyCuddleIntervalMultiplier>0.1</babyCuddleIntervalMultiplier>
   <tamingSpeedMultiplier>10</tamingSpeedMultiplier>
   <tamingFoodRateMultiplier>1</tamingFoodRateMultiplier>
-  <MatingIntervalMultiplier>0.5</MatingIntervalMultiplier>
+  <MatingIntervalMultiplier>1</MatingIntervalMultiplier>
   <EggHatchSpeedMultiplier>10</EggHatchSpeedMultiplier>
   <BabyMatureSpeedMultiplier>10</BabyMatureSpeedMultiplier>
   <BabyFoodConsumptionSpeedMultiplier>1</BabyFoodConsumptionSpeedMultiplier>
