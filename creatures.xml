@@ -817,6 +817,108 @@
       <mutationCounter>0</mutationCounter>
       <tags />
     </Creature>
+    <Creature>
+      <species>Aberrant Spino</species>
+      <name>スピ介</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>5</int>
+        <int>7</int>
+        <int>5</int>
+        <int>3</int>
+        <int>5</int>
+        <int>9</int>
+        <int>0</int>
+        <int>34</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>cb8f73fb-3001-4312-8bf5-a619227fc012</guid>
+      <isBred>true</isBred>
+      <fatherGuid>b17e4983-1f9a-4d65-b578-8f2ba3a5a1fa</fatherGuid>
+      <motherGuid>4f280fcc-4e48-440d-b5e2-193fa45d2b97</motherGuid>
+      <generation>2</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2017-12-24T03:18:47.0891365+09:00</growingUntil>
+      <cooldownUntil>2017-12-24T03:18:47.0891365+09:00</cooldownUntil>
+      <domesticatedAt>2017-12-24T03:18:17.2017906+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Aberrant Spino</species>
+      <name>スピ郎</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>5</int>
+        <int>7</int>
+        <int>4</int>
+        <int>3</int>
+        <int>5</int>
+        <int>1</int>
+        <int>0</int>
+        <int>25</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>bbd11d68-f989-4b94-9eef-d935c5c3eb72</guid>
+      <isBred>true</isBred>
+      <fatherGuid>b17e4983-1f9a-4d65-b578-8f2ba3a5a1fa</fatherGuid>
+      <motherGuid>0b3893a2-5357-4f65-a14b-0a2bc3e68e01</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2017-12-24T03:24:57.4308909+09:00</growingUntil>
+      <cooldownUntil>2017-12-24T03:24:57.4308909+09:00</cooldownUntil>
+      <domesticatedAt>2017-12-24T03:24:03.9985029+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
   </creatures>
   <creaturesValues>
     <CreatureValues>
