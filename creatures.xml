@@ -1072,6 +1072,210 @@
       <mutationCounter>0</mutationCounter>
       <tags />
     </Creature>
+    <Creature>
+      <species>Aberrant Megalosaurus</species>
+      <name>メガザル</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>6</int>
+        <int>9</int>
+        <int>6</int>
+        <int>1</int>
+        <int>8</int>
+        <int>8</int>
+        <int>4</int>
+        <int>42</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.997</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>a3a6cff5-ac73-4228-8b8f-50e4c6f846cc</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2017-12-27T01:55:15.5659398+09:00</growingUntil>
+      <cooldownUntil>2017-12-27T01:55:15.5659398+09:00</cooldownUntil>
+      <domesticatedAt>2017-12-27T01:54:55.6169991+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Shinehorn</species>
+      <name>猪鹿蝶</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>9</int>
+        <int>5</int>
+        <int>4</int>
+        <int>3</int>
+        <int>6</int>
+        <int>7</int>
+        <int>6</int>
+        <int>40</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>7</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>6</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.999</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>e2c2f524-f15d-46ba-8797-ac67d70db5f4</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2017-12-27T02:34:58.1147091+09:00</growingUntil>
+      <cooldownUntil>2017-12-27T02:34:58.1147091+09:00</cooldownUntil>
+      <domesticatedAt>2017-12-27T02:34:33.5811684+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Shinehorn</species>
+      <name>アルカトラズ</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>4</int>
+        <int>4</int>
+        <int>3</int>
+        <int>5</int>
+        <int>1</int>
+        <int>3</int>
+        <int>4</int>
+        <int>24</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>5</int>
+        <int>41</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.998</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>c7cd62e4-d1dc-4e3c-8238-30c81f2e5dbc</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2017-12-27T02:40:40.0165906+09:00</growingUntil>
+      <cooldownUntil>2017-12-27T02:40:40.0165906+09:00</cooldownUntil>
+      <domesticatedAt>2017-12-27T02:40:14.7773106+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Shinehorn</species>
+      <name>蛍光灯</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>2</int>
+        <int>3</int>
+        <int>4</int>
+        <int>3</int>
+        <int>9</int>
+        <int>3</int>
+        <int>0</int>
+        <int>24</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>12</int>
+        <int>14</int>
+        <int>0</int>
+        <int>0</int>
+        <int>15</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.997</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>17e490d7-62ed-4cd8-83f6-c7871dd0e7c2</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2017-12-27T02:43:18.6122842+09:00</growingUntil>
+      <cooldownUntil>2017-12-27T02:43:18.6122842+09:00</cooldownUntil>
+      <domesticatedAt>2017-12-27T02:43:07.5421992+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
   </creatures>
   <creaturesValues>
     <CreatureValues>
