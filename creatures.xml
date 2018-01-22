@@ -2,312 +2,6 @@
 <CreatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <creatures>
     <Creature>
-      <species>Aberrant Megalosaurus</species>
-      <name>オスカ</name>
-      <gender>Male</gender>
-      <status>Available</status>
-      <levelsWild>
-        <int>8</int>
-        <int>6</int>
-        <int>1</int>
-        <int>3</int>
-        <int>3</int>
-        <int>4</int>
-        <int>2</int>
-        <int>27</int>
-      </levelsWild>
-      <levelsDom>
-        <int>16</int>
-        <int>3</int>
-        <int>0</int>
-        <int>0</int>
-        <int>22</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </levelsDom>
-      <tamingEff>0.625</tamingEff>
-      <imprintingBonus>0</imprintingBonus>
-      <owner />
-      <tribe />
-      <server />
-      <note />
-      <guid>8373c3ba-6a9d-40c7-a8a8-a74006e5b090</guid>
-      <isBred>false</isBred>
-      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
-      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
-      <generation>0</generation>
-      <colors>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </colors>
-      <growingUntil>2017-12-23T21:51:35.2623017+09:00</growingUntil>
-      <cooldownUntil>2017-12-23T21:51:35.2623017+09:00</cooldownUntil>
-      <domesticatedAt>2017-12-23T21:51:01.9164465+09:00</domesticatedAt>
-      <neutered>false</neutered>
-      <mutationCounter>0</mutationCounter>
-      <tags />
-    </Creature>
-    <Creature>
-      <species>Aberrant Megalosaurus</species>
-      <name>メスカ</name>
-      <gender>Female</gender>
-      <status>Available</status>
-      <levelsWild>
-        <int>2</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>1</int>
-        <int>0</int>
-        <int>3</int>
-      </levelsWild>
-      <levelsDom>
-        <int>35</int>
-        <int>4</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </levelsDom>
-      <tamingEff>0.238</tamingEff>
-      <imprintingBonus>0</imprintingBonus>
-      <owner />
-      <tribe />
-      <server />
-      <note />
-      <guid>ce9292a4-ab70-4c1e-b132-13bb8a7ed757</guid>
-      <isBred>false</isBred>
-      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
-      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
-      <generation>0</generation>
-      <colors>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </colors>
-      <growingUntil>2017-12-23T21:53:18.0049083+09:00</growingUntil>
-      <cooldownUntil>2017-12-23T21:53:18.0049083+09:00</cooldownUntil>
-      <domesticatedAt>2017-12-23T21:53:01.7878193+09:00</domesticatedAt>
-      <neutered>false</neutered>
-      <mutationCounter>0</mutationCounter>
-      <tags />
-    </Creature>
-    <Creature>
-      <species>Aberrant Megalosaurus</species>
-      <name>欧米か</name>
-      <gender>Female</gender>
-      <status>Available</status>
-      <levelsWild>
-        <int>4</int>
-        <int>6</int>
-        <int>8</int>
-        <int>1</int>
-        <int>3</int>
-        <int>2</int>
-        <int>2</int>
-        <int>26</int>
-      </levelsWild>
-      <levelsDom>
-        <int>31</int>
-        <int>1</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>3</int>
-        <int>0</int>
-        <int>0</int>
-      </levelsDom>
-      <tamingEff>0.851</tamingEff>
-      <imprintingBonus>0</imprintingBonus>
-      <owner />
-      <tribe />
-      <server />
-      <note />
-      <guid>6a0e5b03-4ef5-4479-bde2-907c0a3784de</guid>
-      <isBred>false</isBred>
-      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
-      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
-      <generation>0</generation>
-      <colors>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </colors>
-      <growingUntil>2017-12-23T21:54:45.4512119+09:00</growingUntil>
-      <cooldownUntil>2017-12-23T21:54:45.4512119+09:00</cooldownUntil>
-      <domesticatedAt>2017-12-23T21:54:29.1342614+09:00</domesticatedAt>
-      <neutered>false</neutered>
-      <mutationCounter>0</mutationCounter>
-      <tags />
-    </Creature>
-    <Creature>
-      <species>Aberrant Megalosaurus</species>
-      <name>邪道食い</name>
-      <gender>Female</gender>
-      <status>Available</status>
-      <levelsWild>
-        <int>3</int>
-        <int>2</int>
-        <int>5</int>
-        <int>1</int>
-        <int>5</int>
-        <int>5</int>
-        <int>2</int>
-        <int>23</int>
-      </levelsWild>
-      <levelsDom>
-        <int>14</int>
-        <int>15</int>
-        <int>0</int>
-        <int>0</int>
-        <int>16</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </levelsDom>
-      <tamingEff>0.834</tamingEff>
-      <imprintingBonus>0</imprintingBonus>
-      <owner />
-      <tribe />
-      <server />
-      <note />
-      <guid>6160fd15-b67a-4158-af8d-18ebf1bf3779</guid>
-      <isBred>false</isBred>
-      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
-      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
-      <generation>0</generation>
-      <colors>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </colors>
-      <growingUntil>2017-12-23T21:56:05.9044634+09:00</growingUntil>
-      <cooldownUntil>2017-12-23T21:56:05.9044634+09:00</cooldownUntil>
-      <domesticatedAt>2017-12-23T21:55:45.701395+09:00</domesticatedAt>
-      <neutered>false</neutered>
-      <mutationCounter>0</mutationCounter>
-      <tags />
-    </Creature>
-    <Creature>
-      <species>Aberrant Megalosaurus</species>
-      <name>ムスカ</name>
-      <gender>Male</gender>
-      <status>Available</status>
-      <levelsWild>
-        <int>8</int>
-        <int>3</int>
-        <int>1</int>
-        <int>3</int>
-        <int>8</int>
-        <int>4</int>
-        <int>0</int>
-        <int>27</int>
-      </levelsWild>
-      <levelsDom>
-        <int>20</int>
-        <int>6</int>
-        <int>0</int>
-        <int>0</int>
-        <int>15</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </levelsDom>
-      <tamingEff>1</tamingEff>
-      <imprintingBonus>0.091</imprintingBonus>
-      <owner />
-      <tribe />
-      <server />
-      <note />
-      <guid>8eab1c85-1914-4b07-91ca-c9b626abcbcd</guid>
-      <isBred>true</isBred>
-      <fatherGuid>8373c3ba-6a9d-40c7-a8a8-a74006e5b090</fatherGuid>
-      <motherGuid>ce9292a4-ab70-4c1e-b132-13bb8a7ed757</motherGuid>
-      <generation>1</generation>
-      <colors>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </colors>
-      <growingUntil>2017-12-23T22:19:51.2612712+09:00</growingUntil>
-      <cooldownUntil>2017-12-23T22:19:51.2612712+09:00</cooldownUntil>
-      <domesticatedAt>2016-07-05T13:11:41.997</domesticatedAt>
-      <neutered>false</neutered>
-      <mutationCounter>0</mutationCounter>
-      <tags />
-    </Creature>
-    <Creature>
-      <species>Aberrant Megalosaurus</species>
-      <name>叶恭子</name>
-      <gender>Female</gender>
-      <status>Available</status>
-      <levelsWild>
-        <int>4</int>
-        <int>6</int>
-        <int>1</int>
-        <int>2</int>
-        <int>8</int>
-        <int>3</int>
-        <int>0</int>
-        <int>23</int>
-      </levelsWild>
-      <levelsDom>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </levelsDom>
-      <tamingEff>1</tamingEff>
-      <imprintingBonus>0.18</imprintingBonus>
-      <owner />
-      <tribe />
-      <server />
-      <note />
-      <guid>bbb8afae-a595-4898-86ac-22bf4aa46ae1</guid>
-      <isBred>true</isBred>
-      <fatherGuid>8eab1c85-1914-4b07-91ca-c9b626abcbcd</fatherGuid>
-      <motherGuid>6a0e5b03-4ef5-4479-bde2-907c0a3784de</motherGuid>
-      <generation>2</generation>
-      <colors>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </colors>
-      <growingUntil>2017-12-23T22:27:41.3465111+09:00</growingUntil>
-      <cooldownUntil>2017-12-23T22:27:41.3465111+09:00</cooldownUntil>
-      <domesticatedAt>2016-07-05T13:11:41.997</domesticatedAt>
-      <neutered>false</neutered>
-      <mutationCounter>0</mutationCounter>
-      <tags />
-    </Creature>
-    <Creature>
       <species>Aberrant Spino</species>
       <name>すぴん</name>
       <gender>Female</gender>
@@ -564,57 +258,6 @@
     </Creature>
     <Creature>
       <species>Aberrant Spino</species>
-      <name>ビスケ</name>
-      <gender>Female</gender>
-      <status>Available</status>
-      <levelsWild>
-        <int>2</int>
-        <int>6</int>
-        <int>5</int>
-        <int>3</int>
-        <int>3</int>
-        <int>5</int>
-        <int>4</int>
-        <int>28</int>
-      </levelsWild>
-      <levelsDom>
-        <int>32</int>
-        <int>7</int>
-        <int>0</int>
-        <int>0</int>
-        <int>1</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </levelsDom>
-      <tamingEff>1</tamingEff>
-      <imprintingBonus>1</imprintingBonus>
-      <owner />
-      <tribe />
-      <server />
-      <note />
-      <guid>2b690fae-ea41-45dc-81a0-939e53e6e3b0</guid>
-      <isBred>true</isBred>
-      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
-      <motherGuid>43afc29c-839f-4857-9695-29b9303c7bc1</motherGuid>
-      <generation>1</generation>
-      <colors>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </colors>
-      <growingUntil>2017-12-23T22:53:51.358587+09:00</growingUntil>
-      <cooldownUntil>2017-12-23T22:53:51.358587+09:00</cooldownUntil>
-      <domesticatedAt>2017-12-23T22:53:06.6608337+09:00</domesticatedAt>
-      <neutered>false</neutered>
-      <mutationCounter>0</mutationCounter>
-      <tags />
-    </Creature>
-    <Creature>
-      <species>Aberrant Spino</species>
       <name>スピ音</name>
       <gender>Female</gender>
       <status>Available</status>
@@ -864,210 +507,6 @@
       <growingUntil>2017-12-24T03:24:57.4308909+09:00</growingUntil>
       <cooldownUntil>2017-12-24T03:24:57.4308909+09:00</cooldownUntil>
       <domesticatedAt>2017-12-24T03:24:03.9985029+09:00</domesticatedAt>
-      <neutered>false</neutered>
-      <mutationCounter>0</mutationCounter>
-      <tags />
-    </Creature>
-    <Creature>
-      <species>Aberrant Megalosaurus</species>
-      <name>メガンテ</name>
-      <gender>Male</gender>
-      <status>Available</status>
-      <levelsWild>
-        <int>7</int>
-        <int>10</int>
-        <int>6</int>
-        <int>3</int>
-        <int>3</int>
-        <int>3</int>
-        <int>5</int>
-        <int>37</int>
-      </levelsWild>
-      <levelsDom>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </levelsDom>
-      <tamingEff>1</tamingEff>
-      <imprintingBonus>0</imprintingBonus>
-      <owner />
-      <tribe />
-      <server />
-      <note />
-      <guid>3c2cf864-c988-4a87-8894-dcdf119786c5</guid>
-      <isBred>false</isBred>
-      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
-      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
-      <generation>0</generation>
-      <colors>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </colors>
-      <growingUntil>2017-12-24T23:56:54.5654265+09:00</growingUntil>
-      <cooldownUntil>2017-12-24T23:56:54.5654265+09:00</cooldownUntil>
-      <domesticatedAt>2017-12-24T23:56:39.3563182+09:00</domesticatedAt>
-      <neutered>false</neutered>
-      <mutationCounter>0</mutationCounter>
-      <tags />
-    </Creature>
-    <Creature>
-      <species>Aberrant Spino</species>
-      <name>カルピス</name>
-      <gender>Male</gender>
-      <status>Available</status>
-      <levelsWild>
-        <int>2</int>
-        <int>2</int>
-        <int>4</int>
-        <int>4</int>
-        <int>5</int>
-        <int>6</int>
-        <int>1</int>
-        <int>24</int>
-      </levelsWild>
-      <levelsDom>
-        <int>16</int>
-        <int>2</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </levelsDom>
-      <tamingEff>1</tamingEff>
-      <imprintingBonus>0</imprintingBonus>
-      <owner />
-      <tribe />
-      <server />
-      <note />
-      <guid>66dea9a6-fe7b-48ae-8faa-56e769bbfe0e</guid>
-      <isBred>false</isBred>
-      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
-      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
-      <generation>0</generation>
-      <colors>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </colors>
-      <growingUntil>2017-12-25T00:52:25.7091481+09:00</growingUntil>
-      <cooldownUntil>2017-12-25T00:52:25.7091481+09:00</cooldownUntil>
-      <domesticatedAt>2017-12-25T00:52:13.6860728+09:00</domesticatedAt>
-      <neutered>false</neutered>
-      <mutationCounter>0</mutationCounter>
-      <tags />
-    </Creature>
-    <Creature>
-      <species>Aberrant Spino</species>
-      <name>スピノキオ</name>
-      <gender>Female</gender>
-      <status>Available</status>
-      <levelsWild>
-        <int>4</int>
-        <int>2</int>
-        <int>2</int>
-        <int>1</int>
-        <int>0</int>
-        <int>2</int>
-        <int>2</int>
-        <int>13</int>
-      </levelsWild>
-      <levelsDom>
-        <int>14</int>
-        <int>3</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </levelsDom>
-      <tamingEff>1</tamingEff>
-      <imprintingBonus>0</imprintingBonus>
-      <owner />
-      <tribe />
-      <server />
-      <note />
-      <guid>ce7af648-70a6-482e-bf8a-fdb8d49b7ff5</guid>
-      <isBred>false</isBred>
-      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
-      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
-      <generation>0</generation>
-      <colors>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </colors>
-      <growingUntil>2017-12-25T00:54:21.2044968+09:00</growingUntil>
-      <cooldownUntil>2017-12-25T00:54:21.2044968+09:00</cooldownUntil>
-      <domesticatedAt>2017-12-25T00:54:09.010352+09:00</domesticatedAt>
-      <neutered>false</neutered>
-      <mutationCounter>0</mutationCounter>
-      <tags />
-    </Creature>
-    <Creature>
-      <species>Aberrant Megalosaurus</species>
-      <name>メガザル</name>
-      <gender>Female</gender>
-      <status>Available</status>
-      <levelsWild>
-        <int>6</int>
-        <int>9</int>
-        <int>6</int>
-        <int>1</int>
-        <int>8</int>
-        <int>8</int>
-        <int>4</int>
-        <int>42</int>
-      </levelsWild>
-      <levelsDom>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </levelsDom>
-      <tamingEff>0.997</tamingEff>
-      <imprintingBonus>0</imprintingBonus>
-      <owner />
-      <tribe />
-      <server />
-      <note />
-      <guid>a3a6cff5-ac73-4228-8b8f-50e4c6f846cc</guid>
-      <isBred>false</isBred>
-      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
-      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
-      <generation>0</generation>
-      <colors>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </colors>
-      <growingUntil>2017-12-27T01:55:15.5659398+09:00</growingUntil>
-      <cooldownUntil>2017-12-27T01:55:15.5659398+09:00</cooldownUntil>
-      <domesticatedAt>2017-12-27T01:54:55.6169991+09:00</domesticatedAt>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <tags />
@@ -1379,23 +818,23 @@
       <tags />
     </Creature>
     <Creature>
-      <species>Aberrant Megalosaurus</species>
-      <name>器用貧乏</name>
+      <species>Aberrant Spino</species>
+      <name>スピ美</name>
       <gender>Female</gender>
       <status>Available</status>
       <levelsWild>
-        <int>3</int>
-        <int>5</int>
-        <int>6</int>
-        <int>6</int>
-        <int>6</int>
         <int>4</int>
-        <int>10</int>
-        <int>40</int>
+        <int>7</int>
+        <int>6</int>
+        <int>7</int>
+        <int>9</int>
+        <int>7</int>
+        <int>2</int>
+        <int>42</int>
       </levelsWild>
       <levelsDom>
-        <int>0</int>
-        <int>0</int>
+        <int>40</int>
+        <int>6</int>
         <int>0</int>
         <int>0</int>
         <int>0</int>
@@ -1403,13 +842,13 @@
         <int>0</int>
         <int>0</int>
       </levelsDom>
-      <tamingEff>0.998</tamingEff>
+      <tamingEff>0.996</tamingEff>
       <imprintingBonus>0</imprintingBonus>
       <owner />
       <tribe />
       <server />
       <note />
-      <guid>1419687c-8710-4d91-8521-bdec1688b9d9</guid>
+      <guid>0abd6b60-09ad-4eea-95b4-90c74411b208</guid>
       <isBred>false</isBred>
       <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
       <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
@@ -1422,27 +861,588 @@
         <int>0</int>
         <int>0</int>
       </colors>
-      <growingUntil>2017-12-29T05:38:48.6317711+09:00</growingUntil>
-      <cooldownUntil>2017-12-29T05:38:48.6317711+09:00</cooldownUntil>
-      <domesticatedAt>2017-12-29T05:32:45.2715567+09:00</domesticatedAt>
+      <growingUntil>2017-12-31T00:57:11.7201213+09:00</growingUntil>
+      <cooldownUntil>2017-12-31T00:57:11.7201213+09:00</cooldownUntil>
+      <domesticatedAt>2017-12-31T00:56:04.9866171+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Featherlight</species>
+      <name>ブルーライト</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>0</int>
+        <int>3</int>
+        <int>2</int>
+        <int>1</int>
+        <int>1</int>
+        <int>5</int>
+        <int>1</int>
+        <int>13</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>21</int>
+        <int>25</int>
+        <int>0</int>
+        <int>0</int>
+        <int>8</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>84588d04-6b8d-4d93-b066-0766dc24d394</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-07T12:12:43.5517831+09:00</growingUntil>
+      <cooldownUntil>2018-01-07T12:12:43.5517831+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-07T12:12:28.9758221+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Featherlight</species>
+      <name>猫LED</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>2</int>
+        <int>7</int>
+        <int>6</int>
+        <int>6</int>
+        <int>7</int>
+        <int>7</int>
+        <int>4</int>
+        <int>39</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>18</int>
+        <int>17</int>
+        <int>0</int>
+        <int>0</int>
+        <int>17</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>abbfe2eb-c30d-40d8-abd0-0b0669f46c1b</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-07T12:13:47.986769+09:00</growingUntil>
+      <cooldownUntil>2018-01-07T12:13:47.986769+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-07T12:13:30.8382929+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Featherlight</species>
+      <name>猫ライト</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>2</int>
+        <int>2</int>
+        <int>3</int>
+        <int>7</int>
+        <int>2</int>
+        <int>6</int>
+        <int>2</int>
+        <int>24</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>24</int>
+        <int>12</int>
+        <int>0</int>
+        <int>0</int>
+        <int>17</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>21d447d5-d1a4-4c1f-8066-453e9d9436e3</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-07T12:17:51.0799755+09:00</growingUntil>
+      <cooldownUntil>2018-01-07T12:17:51.0799755+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-07T12:17:41.8149261+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Featherlight</species>
+      <name>とりとり</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>2</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>3</int>
+        <int>1</int>
+        <int>6</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>15</int>
+        <int>15</int>
+        <int>0</int>
+        <int>0</int>
+        <int>15</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>017f916e-1d1c-4024-8c52-49d576e0d901</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-07T12:18:39.0507667+09:00</growingUntil>
+      <cooldownUntil>2018-01-07T12:18:39.0507667+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-07T12:18:29.9778949+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Featherlight</species>
+      <name>ブックセンターいとう</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>4</int>
+        <int>1</int>
+        <int>3</int>
+        <int>2</int>
+        <int>2</int>
+        <int>2</int>
+        <int>2</int>
+        <int>16</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>10</int>
+        <int>7</int>
+        <int>0</int>
+        <int>0</int>
+        <int>24</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>29cb0b58-ba58-4b9b-b0e3-b8d0115b919f</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-07T12:19:35.1418268+09:00</growingUntil>
+      <cooldownUntil>2018-01-07T12:19:35.1418268+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-07T12:19:22.7916366+09:00</domesticatedAt>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <tags />
     </Creature>
     <Creature>
       <species>Aberrant Megalosaurus</species>
-      <name>おす</name>
+      <name>いづみ橋</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>10</int>
+        <int>9</int>
+        <int>8</int>
+        <int>7</int>
+        <int>8</int>
+        <int>9</int>
+        <int>4</int>
+        <int>55</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>30beeb93-f506-493e-9e20-ae68e3b6240b</guid>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>6</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-13T20:21:46.2878438+09:00</growingUntil>
+      <cooldownUntil>2018-01-13T20:21:46.2878438+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-13T20:19:19.5584732+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Aberrant Megalosaurus</species>
+      <name>麒麟山</name>
       <gender>Male</gender>
       <status>Available</status>
       <levelsWild>
-        <int>1</int>
-        <int>2</int>
+        <int>10</int>
+        <int>9</int>
+        <int>8</int>
         <int>7</int>
+        <int>8</int>
+        <int>9</int>
+        <int>4</int>
+        <int>55</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>a747c686-4d38-4dbc-8de5-c0bd9687b678</guid>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>8</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-14T19:11:06.4963434+09:00</growingUntil>
+      <cooldownUntil>2018-01-14T19:11:06.4958439+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-14T19:10:22.344959+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Aberrant Megalosaurus</species>
+      <name>獺祭</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>10</int>
+        <int>9</int>
+        <int>6</int>
+        <int>11</int>
+        <int>8</int>
+        <int>9</int>
+        <int>4</int>
+        <int>57</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>9ace8b6e-f47f-4acf-a341-604618ecc060</guid>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>8</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-14T19:14:30.1922596+09:00</growingUntil>
+      <cooldownUntil>2018-01-14T19:14:30.1922596+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-14T19:13:51.5470245+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Aberrant Megalosaurus</species>
+      <name>飛露喜</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>10</int>
+        <int>9</int>
+        <int>8</int>
         <int>7</int>
-        <int>3</int>
-        <int>2</int>
-        <int>5</int>
+        <int>8</int>
+        <int>9</int>
+        <int>4</int>
+        <int>55</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>801acb58-d5a2-4533-a077-22d4d055fa53</guid>
+      <isBred>true</isBred>
+      <fatherGuid>9ace8b6e-f47f-4acf-a341-604618ecc060</fatherGuid>
+      <motherGuid>30beeb93-f506-493e-9e20-ae68e3b6240b</motherGuid>
+      <generation>6</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-18T17:46:19.9271585+09:00</growingUntil>
+      <cooldownUntil>2018-01-18T17:46:19.9271585+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-16T23:54:21.0639942+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Aberrant Megalosaurus</species>
+      <name>すず音</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>10</int>
+        <int>9</int>
+        <int>8</int>
+        <int>7</int>
+        <int>8</int>
+        <int>9</int>
+        <int>4</int>
+        <int>55</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>507aabc8-c611-4919-97e9-7948ca51fcfa</guid>
+      <isBred>true</isBred>
+      <fatherGuid>9ace8b6e-f47f-4acf-a341-604618ecc060</fatherGuid>
+      <motherGuid>30beeb93-f506-493e-9e20-ae68e3b6240b</motherGuid>
+      <generation>6</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-18T17:46:39.7562012+09:00</growingUntil>
+      <cooldownUntil>2018-01-18T17:46:39.7562012+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-16T23:54:21.0639942+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Aberrant Megalosaurus</species>
+      <name>ど辛</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>10</int>
+        <int>9</int>
+        <int>8</int>
+        <int>11</int>
+        <int>8</int>
+        <int>9</int>
+        <int>4</int>
+        <int>59</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>f17473b9-ef12-43d5-8c9c-022895205b8d</guid>
+      <isBred>true</isBred>
+      <fatherGuid>9ace8b6e-f47f-4acf-a341-604618ecc060</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>6</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-18T17:46:50.0442288+09:00</growingUntil>
+      <cooldownUntil>2018-01-18T17:46:50.0442288+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-16T23:56:33.5742861+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>ラー油</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>36</int>
+        <int>26</int>
+        <int>24</int>
+        <int>22</int>
+        <int>37</int>
+        <int>29</int>
         <int>27</int>
+        <int>201</int>
       </levelsWild>
       <levelsDom>
         <int>0</int>
@@ -1460,7 +1460,7 @@
       <tribe />
       <server />
       <note />
-      <guid>c221a6af-4829-4a50-963f-20f30921e8ef</guid>
+      <guid>b168d74d-641f-4443-9560-4a6c157f8e41</guid>
       <isBred>false</isBred>
       <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
       <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
@@ -1473,27 +1473,78 @@
         <int>0</int>
         <int>0</int>
       </colors>
-      <growingUntil>2017-12-29T17:12:22.0586756+09:00</growingUntil>
-      <cooldownUntil>2017-12-29T17:12:22.0586756+09:00</cooldownUntil>
-      <domesticatedAt>2017-12-29T17:12:01.5837758+09:00</domesticatedAt>
+      <growingUntil>2018-01-21T05:17:01.2442646+09:00</growingUntil>
+      <cooldownUntil>2018-01-21T05:17:01.2442646+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-21T05:15:19.2693944+09:00</domesticatedAt>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <tags />
     </Creature>
     <Creature>
-      <species>Aberrant Megalosaurus</species>
-      <name>ゾンビメガロ</name>
+      <species>Rex</species>
+      <name>シロノサウルス</name>
       <gender>Male</gender>
       <status>Available</status>
       <levelsWild>
-        <int>1</int>
+        <int>34</int>
+        <int>29</int>
+        <int>29</int>
+        <int>40</int>
+        <int>27</int>
+        <int>28</int>
+        <int>14</int>
+        <int>201</int>
+      </levelsWild>
+      <levelsDom>
         <int>0</int>
-        <int>3</int>
-        <int>1</int>
-        <int>6</int>
-        <int>2</int>
-        <int>3</int>
-        <int>16</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>15</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.999</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>838a1fb8-2e0c-4352-add9-22e4936a0e3e</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-21T05:23:49.240228+09:00</growingUntil>
+      <cooldownUntil>2018-01-21T05:23:49.240228+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-21T05:23:16.5751576+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>T^T</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>27</int>
+        <int>25</int>
+        <int>27</int>
+        <int>24</int>
+        <int>27</int>
+        <int>28</int>
+        <int>35</int>
+        <int>193</int>
       </levelsWild>
       <levelsDom>
         <int>0</int>
@@ -1505,13 +1556,13 @@
         <int>0</int>
         <int>0</int>
       </levelsDom>
-      <tamingEff>0.99900000000000011</tamingEff>
+      <tamingEff>0.865</tamingEff>
       <imprintingBonus>0</imprintingBonus>
       <owner />
       <tribe />
       <server />
       <note />
-      <guid>043ca494-3f6b-47e8-a1a4-652fde8c2269</guid>
+      <guid>99db7d77-6c6d-4d99-b31f-d948afcd192d</guid>
       <isBred>false</isBred>
       <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
       <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
@@ -1524,27 +1575,27 @@
         <int>0</int>
         <int>0</int>
       </colors>
-      <growingUntil>2017-12-29T18:25:44.5029414+09:00</growingUntil>
-      <cooldownUntil>2017-12-29T18:25:44.5029414+09:00</cooldownUntil>
-      <domesticatedAt>2017-12-29T18:25:18.0725115+09:00</domesticatedAt>
+      <growingUntil>2018-01-21T06:21:01.8270551+09:00</growingUntil>
+      <cooldownUntil>2018-01-21T06:21:01.8270551+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-21T06:20:10.3328636+09:00</domesticatedAt>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <tags />
     </Creature>
     <Creature>
-      <species>Aberrant Megalosaurus</species>
-      <name>香車</name>
+      <species>Rex</species>
+      <name>T氏</name>
       <gender>Male</gender>
       <status>Available</status>
       <levelsWild>
-        <int>10</int>
-        <int>5</int>
-        <int>7</int>
-        <int>7</int>
-        <int>4</int>
-        <int>3</int>
-        <int>6</int>
-        <int>42</int>
+        <int>39</int>
+        <int>36</int>
+        <int>36</int>
+        <int>24</int>
+        <int>25</int>
+        <int>28</int>
+        <int>28</int>
+        <int>216</int>
       </levelsWild>
       <levelsDom>
         <int>0</int>
@@ -1556,13 +1607,13 @@
         <int>0</int>
         <int>0</int>
       </levelsDom>
-      <tamingEff>0.997</tamingEff>
+      <tamingEff>0.996</tamingEff>
       <imprintingBonus>0</imprintingBonus>
       <owner />
       <tribe />
       <server />
       <note />
-      <guid>8268c04e-9a8f-479a-b9bc-3e20bc751d7d</guid>
+      <guid>28995cd9-bc22-4c40-b870-0dc6fbcc138e</guid>
       <isBred>false</isBred>
       <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
       <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
@@ -1575,129 +1626,27 @@
         <int>0</int>
         <int>0</int>
       </colors>
-      <growingUntil>2017-12-29T19:35:08.6561332+09:00</growingUntil>
-      <cooldownUntil>2017-12-29T19:35:08.6561332+09:00</cooldownUntil>
-      <domesticatedAt>2017-12-29T19:34:52.2937823+09:00</domesticatedAt>
+      <growingUntil>2018-01-21T20:38:03.0793839+09:00</growingUntil>
+      <cooldownUntil>2018-01-21T20:38:03.0793839+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-21T20:37:26.979877+09:00</domesticatedAt>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <tags />
     </Creature>
     <Creature>
-      <species>Aberrant Megalosaurus</species>
-      <name>中納言</name>
+      <species>Rex</species>
+      <name>醤油</name>
       <gender>Female</gender>
       <status>Available</status>
       <levelsWild>
-        <int>5</int>
-        <int>2</int>
-        <int>8</int>
-        <int>4</int>
-        <int>9</int>
-        <int>3</int>
-        <int>5</int>
-        <int>36</int>
-      </levelsWild>
-      <levelsDom>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </levelsDom>
-      <tamingEff>1</tamingEff>
-      <imprintingBonus>0</imprintingBonus>
-      <owner />
-      <tribe />
-      <server />
-      <note />
-      <guid>b849fe6b-98e2-445c-acf9-8684df38dfa1</guid>
-      <isBred>false</isBred>
-      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
-      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
-      <generation>0</generation>
-      <colors>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </colors>
-      <growingUntil>2017-12-30T01:09:02.5961469+09:00</growingUntil>
-      <cooldownUntil>2017-12-30T01:09:02.5961469+09:00</cooldownUntil>
-      <domesticatedAt>2017-12-29T20:45:13.0714198+09:00</domesticatedAt>
-      <neutered>false</neutered>
-      <mutationCounter>0</mutationCounter>
-      <tags />
-    </Creature>
-    <Creature>
-      <species>Aberrant Megalosaurus</species>
-      <name>加賀中将</name>
-      <gender>Male</gender>
-      <status>Available</status>
-      <levelsWild>
-        <int>8</int>
-        <int>1</int>
-        <int>5</int>
-        <int>6</int>
-        <int>1</int>
-        <int>3</int>
-        <int>3</int>
+        <int>20</int>
+        <int>15</int>
+        <int>20</int>
+        <int>23</int>
+        <int>30</int>
         <int>27</int>
-      </levelsWild>
-      <levelsDom>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </levelsDom>
-      <tamingEff>1</tamingEff>
-      <imprintingBonus>0</imprintingBonus>
-      <owner />
-      <tribe />
-      <server />
-      <note />
-      <guid>6bd413f0-64e7-46f6-9ba5-8b5b46c566ed</guid>
-      <isBred>false</isBred>
-      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
-      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
-      <generation>0</generation>
-      <colors>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </colors>
-      <growingUntil>2017-12-29T20:47:47.2811493+09:00</growingUntil>
-      <cooldownUntil>2017-12-29T20:47:47.2811493+09:00</cooldownUntil>
-      <domesticatedAt>2017-12-29T20:47:32.1679431+09:00</domesticatedAt>
-      <neutered>false</neutered>
-      <mutationCounter>0</mutationCounter>
-      <tags />
-    </Creature>
-    <Creature>
-      <species>Aberrant Megalosaurus</species>
-      <name>一ノ蔵</name>
-      <gender>Male</gender>
-      <status>Available</status>
-      <levelsWild>
-        <int>6</int>
-        <int>7</int>
-        <int>3</int>
-        <int>6</int>
-        <int>5</int>
-        <int>9</int>
-        <int>7</int>
-        <int>43</int>
+        <int>13</int>
+        <int>148</int>
       </levelsWild>
       <levelsDom>
         <int>0</int>
@@ -1715,7 +1664,7 @@
       <tribe />
       <server />
       <note />
-      <guid>08878c62-a315-4496-9645-0dd8b2cedeb6</guid>
+      <guid>6bab0b89-04b0-48cc-8ce6-46c651c15e85</guid>
       <isBred>false</isBred>
       <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
       <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
@@ -1728,162 +1677,9 @@
         <int>0</int>
         <int>0</int>
       </colors>
-      <growingUntil>2017-12-30T00:47:23.3999386+09:00</growingUntil>
-      <cooldownUntil>2017-12-30T00:47:23.3999386+09:00</cooldownUntil>
-      <domesticatedAt>2017-12-30T00:46:37.6433531+09:00</domesticatedAt>
-      <neutered>false</neutered>
-      <mutationCounter>0</mutationCounter>
-      <tags />
-    </Creature>
-    <Creature>
-      <species>Aberrant Megalosaurus</species>
-      <name>浦霞</name>
-      <gender>Female</gender>
-      <status>Available</status>
-      <levelsWild>
-        <int>6</int>
-        <int>7</int>
-        <int>6</int>
-        <int>6</int>
-        <int>8</int>
-        <int>9</int>
-        <int>4</int>
-        <int>46</int>
-      </levelsWild>
-      <levelsDom>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </levelsDom>
-      <tamingEff>1</tamingEff>
-      <imprintingBonus>0</imprintingBonus>
-      <owner />
-      <tribe />
-      <server />
-      <note />
-      <guid>e5a74210-1459-464e-a4f6-e28d7fc6e1ff</guid>
-      <isBred>true</isBred>
-      <fatherGuid>08878c62-a315-4496-9645-0dd8b2cedeb6</fatherGuid>
-      <motherGuid>a3a6cff5-ac73-4228-8b8f-50e4c6f846cc</motherGuid>
-      <generation>1</generation>
-      <colors>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </colors>
-      <growingUntil>2017-12-30T10:47:20.5010519+09:00</growingUntil>
-      <cooldownUntil>2017-12-30T10:47:20.5010519+09:00</cooldownUntil>
-      <domesticatedAt>2017-12-30T10:15:37.5891319+09:00</domesticatedAt>
-      <neutered>false</neutered>
-      <mutationCounter>0</mutationCounter>
-      <tags />
-    </Creature>
-    <Creature>
-      <species>Aberrant Megalosaurus</species>
-      <name>伯楽星</name>
-      <gender>Male</gender>
-      <status>Available</status>
-      <levelsWild>
-        <int>10</int>
-        <int>5</int>
-        <int>8</int>
-        <int>4</int>
-        <int>4</int>
-        <int>3</int>
-        <int>5</int>
-        <int>39</int>
-      </levelsWild>
-      <levelsDom>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </levelsDom>
-      <tamingEff>1</tamingEff>
-      <imprintingBonus>0</imprintingBonus>
-      <owner />
-      <tribe />
-      <server />
-      <note />
-      <guid>0e011829-a68e-4f7d-b2aa-510d1f2cef17</guid>
-      <isBred>true</isBred>
-      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
-      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
-      <generation>1</generation>
-      <colors>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </colors>
-      <growingUntil>2017-12-30T10:47:45.3665683+09:00</growingUntil>
-      <cooldownUntil>2017-12-30T10:47:45.3665683+09:00</cooldownUntil>
-      <domesticatedAt>2017-12-30T10:17:56.1401895+09:00</domesticatedAt>
-      <neutered>false</neutered>
-      <mutationCounter>0</mutationCounter>
-      <tags />
-    </Creature>
-    <Creature>
-      <species>Aberrant Megalosaurus</species>
-      <name>愛宕の松</name>
-      <gender>Female</gender>
-      <status>Available</status>
-      <levelsWild>
-        <int>10</int>
-        <int>5</int>
-        <int>8</int>
-        <int>4</int>
-        <int>4</int>
-        <int>3</int>
-        <int>5</int>
-        <int>39</int>
-      </levelsWild>
-      <levelsDom>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </levelsDom>
-      <tamingEff>1</tamingEff>
-      <imprintingBonus>0</imprintingBonus>
-      <owner />
-      <tribe />
-      <server />
-      <note />
-      <guid>5a45b2b5-5b8d-4f3a-8602-8a82dc789696</guid>
-      <isBred>true</isBred>
-      <fatherGuid>8268c04e-9a8f-479a-b9bc-3e20bc751d7d</fatherGuid>
-      <motherGuid>b849fe6b-98e2-445c-acf9-8684df38dfa1</motherGuid>
-      <generation>1</generation>
-      <colors>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </colors>
-      <growingUntil>2017-12-30T10:47:34.1395589+09:00</growingUntil>
-      <cooldownUntil>2017-12-30T10:47:34.1395589+09:00</cooldownUntil>
-      <domesticatedAt>2017-12-30T10:17:56.1401895+09:00</domesticatedAt>
+      <growingUntil>2018-01-22T01:13:28.6615015+09:00</growingUntil>
+      <cooldownUntil>2018-01-22T01:13:28.6615015+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-22T01:12:39.9367015+09:00</domesticatedAt>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <tags />
@@ -2003,6 +1799,7 @@
   <BabyMatureSpeedMultiplierEvent>10</BabyMatureSpeedMultiplierEvent>
   <BabyFoodConsumptionSpeedMultiplierEvent>1</BabyFoodConsumptionSpeedMultiplierEvent>
   <singlePlayerSettings>false</singlePlayerSettings>
+  <allowMoreThanHundredImprinting>false</allowMoreThanHundredImprinting>
   <players />
   <tribes />
   <additionalValues />
