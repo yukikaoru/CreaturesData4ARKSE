@@ -1684,6 +1684,669 @@
       <mutationCounter>0</mutationCounter>
       <tags />
     </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>甜麺醤</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>20</int>
+        <int>32</int>
+        <int>30</int>
+        <int>20</int>
+        <int>43</int>
+        <int>25</int>
+        <int>38</int>
+        <int>208</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.852</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>49b693f1-7bc6-4214-b81d-e0ce8a2817f9</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-22T22:36:20.7177471+09:00</growingUntil>
+      <cooldownUntil>2018-01-22T22:36:20.7177471+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-22T22:36:09.9375046+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>XO醤</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>27</int>
+        <int>20</int>
+        <int>26</int>
+        <int>27</int>
+        <int>34</int>
+        <int>27</int>
+        <int>32</int>
+        <int>193</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.857</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>221c8367-92de-4f4e-a766-65cfcc30f136</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-22T22:37:16.579389+09:00</growingUntil>
+      <cooldownUntil>2018-01-22T22:37:16.579389+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-22T22:37:02.2454774+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>豆板醤</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>28</int>
+        <int>24</int>
+        <int>25</int>
+        <int>34</int>
+        <int>40</int>
+        <int>28</int>
+        <int>32</int>
+        <int>211</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.837</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>29ff6505-bb6f-460d-a3e4-6b01cdfdbea6</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-24T02:10:20.1928304+09:00</growingUntil>
+      <cooldownUntil>2018-01-24T02:10:20.1928304+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-24T02:10:06.2840213+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>味噌</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>20</int>
+        <int>35</int>
+        <int>31</int>
+        <int>32</int>
+        <int>23</int>
+        <int>40</int>
+        <int>20</int>
+        <int>201</int>
+      </levelsWild>
+      <levelsDom>
+        <int>1</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.998</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>87f8ee9c-0c78-4c3d-85b2-5bf7334415bc</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-24T02:12:37.1167273+09:00</growingUntil>
+      <cooldownUntil>2018-01-24T02:12:37.1167273+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-24T02:12:30.4655535+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>赤味噌</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>20</int>
+        <int>32</int>
+        <int>36</int>
+        <int>24</int>
+        <int>43</int>
+        <int>28</int>
+        <int>39</int>
+        <int>222</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>7f50c64f-421d-4ee6-a381-8ef410de724f</guid>
+      <isBred>true</isBred>
+      <fatherGuid>28995cd9-bc22-4c40-b870-0dc6fbcc138e</fatherGuid>
+      <motherGuid>49b693f1-7bc6-4214-b81d-e0ce8a2817f9</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-24T17:33:53.3724739+09:00</growingUntil>
+      <cooldownUntil>2018-01-24T17:33:53.3724739+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-24T17:33:24.4810307+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>hoge</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>20</int>
+        <int>38</int>
+        <int>36</int>
+        <int>24</int>
+        <int>25</int>
+        <int>28</int>
+        <int>28</int>
+        <int>199</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>bb009299-19c8-46cb-adf4-20dbf2d36926</guid>
+      <isBred>true</isBred>
+      <fatherGuid>28995cd9-bc22-4c40-b870-0dc6fbcc138e</fatherGuid>
+      <motherGuid>87f8ee9c-0c78-4c3d-85b2-5bf7334415bc</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-24T17:37:17.1226913+09:00</growingUntil>
+      <cooldownUntil>2018-01-24T17:37:17.1226913+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-24T17:37:01.3273177+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>ジャッキーチェン</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>39</int>
+        <int>36</int>
+        <int>36</int>
+        <int>20</int>
+        <int>25</int>
+        <int>28</int>
+        <int>39</int>
+        <int>223</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>bffde8bb-72af-436b-9487-aa4a63ed5641</guid>
+      <isBred>true</isBred>
+      <fatherGuid>28995cd9-bc22-4c40-b870-0dc6fbcc138e</fatherGuid>
+      <motherGuid>49b693f1-7bc6-4214-b81d-e0ce8a2817f9</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-26T00:59:47.6757221+09:00</growingUntil>
+      <cooldownUntil>2018-01-26T00:59:47.6757221+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-26T00:58:50.6321558+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>フェイラウ</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>20</int>
+        <int>35</int>
+        <int>31</int>
+        <int>32</int>
+        <int>25</int>
+        <int>40</int>
+        <int>28</int>
+        <int>211</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>9dfe7e1d-68c9-4644-96f9-d081de8d5c53</guid>
+      <isBred>true</isBred>
+      <fatherGuid>28995cd9-bc22-4c40-b870-0dc6fbcc138e</fatherGuid>
+      <motherGuid>87f8ee9c-0c78-4c3d-85b2-5bf7334415bc</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-26T01:02:10.875987+09:00</growingUntil>
+      <cooldownUntil>2018-01-26T01:02:10.875987+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-26T01:01:06.2033111+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>ユンピョウ</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>39</int>
+        <int>36</int>
+        <int>31</int>
+        <int>24</int>
+        <int>25</int>
+        <int>40</int>
+        <int>28</int>
+        <int>223</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>6b800b8b-66fc-40e4-b641-581be299ea6c</guid>
+      <isBred>true</isBred>
+      <fatherGuid>28995cd9-bc22-4c40-b870-0dc6fbcc138e</fatherGuid>
+      <motherGuid>9dfe7e1d-68c9-4644-96f9-d081de8d5c53</motherGuid>
+      <generation>2</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-27T16:36:14.287667+09:00</growingUntil>
+      <cooldownUntil>2018-01-27T16:36:14.287667+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-27T03:03:26.4911384+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>one</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>20</int>
+        <int>36</int>
+        <int>36</int>
+        <int>20</int>
+        <int>43</int>
+        <int>28</int>
+        <int>28</int>
+        <int>211</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>987d7c56-0f83-4b2d-9de2-934c50046489</guid>
+      <isBred>true</isBred>
+      <fatherGuid>28995cd9-bc22-4c40-b870-0dc6fbcc138e</fatherGuid>
+      <motherGuid>49b693f1-7bc6-4214-b81d-e0ce8a2817f9</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-27T03:20:38.7081502+09:00</growingUntil>
+      <cooldownUntil>2018-01-27T03:20:38.7081502+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-27T03:05:06.4356609+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>two</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>20</int>
+        <int>36</int>
+        <int>36</int>
+        <int>24</int>
+        <int>43</int>
+        <int>28</int>
+        <int>28</int>
+        <int>215</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>3e864a8e-ec89-41da-87d9-1636476e8472</guid>
+      <isBred>true</isBred>
+      <fatherGuid>28995cd9-bc22-4c40-b870-0dc6fbcc138e</fatherGuid>
+      <motherGuid>7f50c64f-421d-4ee6-a381-8ef410de724f</motherGuid>
+      <generation>2</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-27T03:20:52.2958365+09:00</growingUntil>
+      <cooldownUntil>2018-01-27T03:20:52.2958365+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-27T03:09:19.7535111+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>HSOFD</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>39</int>
+        <int>36</int>
+        <int>36</int>
+        <int>32</int>
+        <int>25</int>
+        <int>40</int>
+        <int>28</int>
+        <int>236</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>6cf2d9f7-3e52-490b-b06b-89d3d12b02c5</guid>
+      <isBred>true</isBred>
+      <fatherGuid>28995cd9-bc22-4c40-b870-0dc6fbcc138e</fatherGuid>
+      <motherGuid>87f8ee9c-0c78-4c3d-85b2-5bf7334415bc</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-27T03:16:09.4474554+09:00</growingUntil>
+      <cooldownUntil>2018-01-27T03:16:09.4474554+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-27T03:14:29.5197322+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>完成形オス</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>39</int>
+        <int>36</int>
+        <int>36</int>
+        <int>32</int>
+        <int>43</int>
+        <int>40</int>
+        <int>28</int>
+        <int>254</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <tribe />
+      <server />
+      <note />
+      <guid>bdd077f1-b761-40b9-a38b-9fe21de0723e</guid>
+      <isBred>true</isBred>
+      <fatherGuid>6cf2d9f7-3e52-490b-b06b-89d3d12b02c5</fatherGuid>
+      <motherGuid>987d7c56-0f83-4b2d-9de2-934c50046489</motherGuid>
+      <generation>2</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-01-27T16:31:21.2447565+09:00</growingUntil>
+      <cooldownUntil>2018-01-27T16:31:21.2447565+09:00</cooldownUntil>
+      <domesticatedAt>2018-01-27T16:30:51.2898157+09:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <tags />
+    </Creature>
   </creatures>
   <creaturesValues>
     <CreatureValues>
